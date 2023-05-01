@@ -20,7 +20,7 @@
          valorCusto = Convert.ToDecimal(Console.ReadLine());
 
          decimal percentual = 0;
-         Console.Write($" Digite o percentual da loja {percentual}%");
+         Console.Write($" Digite o percentual da loja %");
          percentual = Convert.ToDecimal(Console.ReadLine());
 
          // Definindo variáveis para  calculo

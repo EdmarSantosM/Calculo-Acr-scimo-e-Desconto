@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\bin\Debug\net7.0\AcrescimoDescontoNoValor.exe
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\bin\Debug\net7.0\AcrescimoDescontoNoValor.deps.json
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\bin\Debug\net7.0\AcrescimoDescontoNoValor.runtimeconfig.json
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\bin\Debug\net7.0\AcrescimoDescontoNoValor.dll
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\bin\Debug\net7.0\AcrescimoDescontoNoValor.pdb
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\obj\Debug\net7.0\AcrescimoDescontoNoValor.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\obj\Debug\net7.0\AcrescimoDescontoNoValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\obj\Debug\net7.0\AcrescimoDescontoNoValor.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\obj\Debug\net7.0\AcrescimoDescontoNoValor.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\obj\Debug\net7.0\AcrescimoDescontoNoValor.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\obj\Debug\net7.0\AcrescimoDescontoNoValor.dll
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\obj\Debug\net7.0\refint\AcrescimoDescontoNoValor.dll
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\obj\Debug\net7.0\AcrescimoDescontoNoValor.pdb
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\obj\Debug\net7.0\AcrescimoDescontoNoValor.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\vsCode\Calculo-Acr-scimo-e-Desconto\AcrescimoDescontoNoValor\obj\Debug\net7.0\ref\AcrescimoDescontoNoValor.dll
