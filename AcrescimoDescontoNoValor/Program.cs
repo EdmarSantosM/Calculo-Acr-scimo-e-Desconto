@@ -22,6 +22,17 @@
          decimal percentual = 0;
          Console.Write($" Digite o percentual da loja {percentual}%");
          percentual = Convert.ToDecimal(Console.ReadLine());
+
+         // Definindo variáveis para  calculo
+         decimal valorVendaFinal = 0, valorDesconto = 0;
+
+         System.Console.WriteLine();
+         System.Console.WriteLine(" ------------------------------------------------------------------------ ");
+         System.Console.WriteLine($" O produto informado é '{descricao}', seu valor de custo é R${valorCusto}");
+         System.Console.WriteLine(" ------------------------------------------------------------------------ ");
+         System.Console.WriteLine();
+
          
+
     }
  }
