@@ -39,7 +39,17 @@
             {
                 System.Console.WriteLine($" O valor do produto neste caso terá um acréscimo, onde o valor de  venda fina é de 'R${valorVendaFinal}'");
                 System.Console.WriteLine();
-                System.Console.WriteLine(" Pressione a tecla 'Enter para finalizar'");
+                System.Console.WriteLine(" Pressione a tecla 'Enter' para finalizar o cálculo e sair do programa");
+                Console.ReadKey();
+            }
+         }
+         else if (valorCusto >= 500)
+         {
+            valorDesconto = (valorCusto -(valorCusto * percentual /100));
+            {
+                System.Console.WriteLine($" O valor do produto neste  caso terá um desconto, onde o valor de venda final será 'R${valorDesconto}'");
+                System.Console.WriteLine();
+                System.Console.WriteLine(" Pressione a tecla 'Enter' para  finalizar o cálculo e  sair do programa");
                 Console.ReadKey();
             }
          }
